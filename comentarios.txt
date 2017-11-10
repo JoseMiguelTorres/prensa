@@ -1,0 +1,23 @@
+commit 38e834bf6b6a11fce8937a6acbea20f31aebc61e
+Author: Torres <josemi_algaba_92@hotmail.com>
+Date:   Fri Nov 10 09:36:40 2017 +0100
+
+    Parte2
+
+commit ac8370402bf58152e862fce0a84cc8b20bcdb855
+Author: Torres <josemi_algaba_92@hotmail.com>
+Date:   Fri Nov 10 09:31:44 2017 +0100
+
+    Parte1
+
+commit d3444c3da0569912c27405fb143954554831683a
+Author: Torres <josemi_algaba_92@hotmail.com>
+Date:   Fri Nov 3 09:41:12 2017 +0100
+
+    twiter añadido
+
+commit 8650177a8efdd48097d5ec7f182d5044e9624061
+Author: Torres <josemi_algaba_92@hotmail.com>
+Date:   Fri Nov 3 09:36:02 2017 +0100
+
+    Inicio el proyecto plantilla prensa
